@@ -30,6 +30,11 @@ Shell-color-scripts is packaged for nixpkgs (unstable only). Although manpages a
     
     nix-env -iA nixpkgs.dt-shell-color-scripts
 
+# Installing shell-color-scripts on Fedora
+
+Shell-color-scripts is packaged for the two supported versions of Fedora at the moment of reading and also for Rawhide as a Copr package for all the supported architectures and includes the manpages and shell completions. Installation instructions can be found on the [Copr page of the package](https://copr.fedorainfracloud.org/coprs/foopsss/shell-color-scripts/).
+
+
 # Installing shell-color-scripts on other Linux distributions
 
 Download the source code from this repository or use a git clone:
