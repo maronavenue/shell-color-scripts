@@ -75,3 +75,37 @@ For even more fun, add the following line to your .bashrc or .zshrc and you will
 
 	### RANDOM COLOR SCRIPT ###
 	colorscript random
+
+# Maron's filtered colorscripts
+
+Run the script: `sh ./blacklist.sh`
+
+```bash
+sh ./blacklist.sh
+❯ colorscript -b
+There are 24 blacklisted color scripts:
+     1  awk-rgb-test
+     2  bars
+     3  blocks2
+     4  colorbars
+     5  colortest-slim
+     6  colorview
+     7  colorwheel
+     8  crowns
+     9  doom-original
+    10  doom-outlined
+    11  guns
+    12  hex
+    13  illumina
+    14  kaisen
+    15  mouseface
+    16  pinguco
+    17  pukeskull
+    18  rupees
+    19  spectrum
+    20  tiefighter1
+    21  tiefighter1-no-invo
+    22  tiefighter2
+    23  tux
+    24  xmonad
+```
