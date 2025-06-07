@@ -10,3 +10,5 @@ uninstall:
 	rm -rf /opt/shell-color-scripts
 	rm -f /usr/local/bin/colorscript
 
+trim:
+	bash trimcolors.sh
